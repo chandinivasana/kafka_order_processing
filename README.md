@@ -1,4 +1,4 @@
-# Kafka E-commerce Project
+
 
 This project simulates a real-time order processing system using Apache Kafka and Python.
 
